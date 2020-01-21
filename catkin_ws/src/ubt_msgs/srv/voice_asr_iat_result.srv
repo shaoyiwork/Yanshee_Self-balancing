@@ -1,0 +1,5 @@
+string option
+---
+int64 timestamp
+string voice_result
+string status

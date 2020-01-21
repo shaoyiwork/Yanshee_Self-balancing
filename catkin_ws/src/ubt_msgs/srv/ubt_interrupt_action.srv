@@ -1,0 +1,3 @@
+bool interrupt
+---
+int32 rc

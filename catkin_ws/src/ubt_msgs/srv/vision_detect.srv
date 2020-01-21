@@ -1,0 +1,5 @@
+string vision_type
+int32 timeout
+---
+int32 vision_value
+int32 rc

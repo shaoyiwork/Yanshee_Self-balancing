@@ -1,0 +1,5 @@
+int32 handle
+bool continuous
+int64 timestamp
+---
+int32 rc

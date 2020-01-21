@@ -1,0 +1,10 @@
+string module_name
+string task_name
+---
+int32 rc
+string vision_result_str
+int64 vision_result_int
+string[] vision_result_str_array
+float32[] vision_result_float_array
+string status
+int64 timestamp

@@ -1,0 +1,4 @@
+int32 handle
+bool detected
+---
+int32 rc

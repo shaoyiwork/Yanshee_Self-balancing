@@ -1,0 +1,8 @@
+string operation
+int32 period
+int32 speed_v
+int32 speed_h
+bool wave
+int32 duration
+---
+int32 rc

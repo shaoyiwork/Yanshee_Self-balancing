@@ -1,0 +1,4 @@
+---
+int32 vision_status
+int32 rc
+

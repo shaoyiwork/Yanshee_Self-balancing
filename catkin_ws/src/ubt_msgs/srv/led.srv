@@ -1,0 +1,5 @@
+int8 type
+int8 mode
+int8 color
+---
+int32 rc

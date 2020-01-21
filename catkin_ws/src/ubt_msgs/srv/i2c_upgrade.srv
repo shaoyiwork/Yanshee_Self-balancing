@@ -1,0 +1,5 @@
+int32 opt
+int32 upgrade_type
+int32 index
+---
+int32 rc

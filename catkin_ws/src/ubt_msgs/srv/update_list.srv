@@ -1,0 +1,5 @@
+string name
+int32 repeat
+bool change
+---
+int32 rc

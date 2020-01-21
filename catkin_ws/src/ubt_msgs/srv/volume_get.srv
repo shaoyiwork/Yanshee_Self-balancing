@@ -1,0 +1,5 @@
+---
+bool left_ch_en
+bool right_ch_en
+int32 left_ch_volume
+int32 right_ch_volume

@@ -1,0 +1,8 @@
+---
+int32 c_type
+int32 c_mode
+int32 c_color
+int32 b_type
+int32 b_mode
+int32 b_color
+int32 rc

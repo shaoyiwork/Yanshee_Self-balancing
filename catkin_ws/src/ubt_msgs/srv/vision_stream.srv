@@ -1,0 +1,4 @@
+string cmd
+string resolution
+---
+int32 rc

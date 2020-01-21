@@ -1,0 +1,5 @@
+int32[] slot
+int32[] addr
+int32[] type
+int32[] version
+int32[] value

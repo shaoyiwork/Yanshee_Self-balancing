@@ -1,0 +1,4 @@
+# vision types
+string vision_type
+---
+int32 rc

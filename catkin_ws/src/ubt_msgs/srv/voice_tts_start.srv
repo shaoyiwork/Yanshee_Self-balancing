@@ -1,0 +1,7 @@
+int32 handle
+int64 timestamp
+string msg
+bool interrupt
+bool asyn
+---
+int32 rc

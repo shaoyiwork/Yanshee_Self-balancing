@@ -1,0 +1,5 @@
+string buf
+int32 time
+---
+string result
+int32 rc

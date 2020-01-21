@@ -1,0 +1,4 @@
+---
+bool bEnable
+int32[] value
+int32 rc

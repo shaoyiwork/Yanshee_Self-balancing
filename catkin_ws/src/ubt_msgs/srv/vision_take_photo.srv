@@ -1,0 +1,5 @@
+string photo_name
+int32 width
+int32 height
+---
+int32 rc
